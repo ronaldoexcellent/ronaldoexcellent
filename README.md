@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development Projects.
 - 🌱 I'm very knowledgeable and skilled technologies including HTML5, CSS3, JS, W3.css, Bootstrap, Tailwind, JQuery, Angularjs, React, PHP & MySQL. I've also made some web education/puzzle games, websites and apps.
 - 💞️ I’m looking to collaborate on web development projects.
-- 📫 You can reach me on mobile -  Facebook - facebook.com/kingrextwelve, Instagram - @kingrex1212 & X - @kingrex_1212 & LinkedIn - /ronaldoexcellent
+- 📫 You can reach me on mobile -  Facebook - facebook.com/kingrextwelve, Instagram - @kingrex1212 & X - @kingrex_1212 & LinkedIn - /kingrex
 
 <!---
 ronaldoexcellent/ronaldoexcellent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
