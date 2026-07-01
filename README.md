@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ronaldoexcellent and I'm a programmer/front-end engineer.
+- 👋 Hi, I’m @ronaldoexcellent and I'm a programmer/full-stack engineer.
 - 👀 I’m interested in Web Development Projects.
 - 🌱 I'm very knowledgeable and skilled technologies including HTML5, CSS3, JS, W3.css, Bootstrap, Tailwind, JQuery, Angularjs, React, PHP & MySQL. I've also made some web education/puzzle games, websites and apps.
 - 💞️ I’m looking to collaborate on web development projects.
